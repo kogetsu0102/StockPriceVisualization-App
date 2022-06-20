@@ -1,5 +1,3 @@
-from dataclasses import dataclass
-from matplotlib import ticker
 import pandas as pd
 import yfinance as yf
 import altair as alt
